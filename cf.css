@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+
+*{
+    margin: 0;
+    font-family: 'Poppins';
+    padding: 0;
+    font-size: 1rem;
+}
+body{
+    margin: 3rem;
+    
+}
+html{
+    width: 90vw;
+    margin: auto;
+}
+p{
+    color: rgb(0, 0, 0);
+}
